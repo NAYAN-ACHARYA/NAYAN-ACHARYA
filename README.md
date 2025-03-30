@@ -1,12 +1,12 @@
-# Hi, I'm [Nayan Acharya] 👋
+# Hi, I'm Nayan Acharya 👋
 
 ## 🚀 About Me
 I'm a passionate developer with expertise in MERN stack, JavaScript and C++. I love building full-stack applications and working with cloud databases like Cloudinary and MongoDB Atlas.
 
 ## 🛠️ Tech Stack
-- **Frontend:** React.js, HTML, CSS, TailwindCSS
+- **Frontend:** React.js, HTML, CSS
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB, Firebase
+- **Database:** MongoDB,MySQL
 - **Cloud Services:** Cloudinary, MongoDB Atlas
 - **Other:** WebSockets, Socket.io, Multer, Nodemailer
 
